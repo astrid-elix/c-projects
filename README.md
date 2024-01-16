@@ -1,2 +1,2 @@
 # c-projects
-My few c projects :)
+My c projects :)
