@@ -183,7 +183,7 @@ int main()
 start:
     char msg[100];
     int select;
-    printf("This is Ace the Encrypt and Decrypt v-0.1(by Dhruv Kuhite)\n");
+    printf("This is Ace the Encrypt and Decrypt v-0.1\n");
 sel:
     printf("\nWhat you want to do :\n");
     printf("1.Encrypt\n2.Decrypt\n>>");
